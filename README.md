@@ -3,7 +3,7 @@ Detect Palindrome Sentences Flink implementation
 
 
 
-a palindrome sentence has the same order of alphanumeric characters when read backwards. For example:
+A palindrome sentence has the same order of alphanumeric characters when read backwards. For example:
 was it a car or a cat I saw
 or
 23 yo banana boy 32.
